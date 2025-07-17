@@ -182,6 +182,19 @@ main > section{
     .sponsors-companis img{
            filter:grayscale(100%);
     }
+    /* footer styles */
+    .footer{
+        max-width: 1440px;
+        height: 100px;
+        margin: 0 auto;
+        background-color: rgba(255, 244, 231, 1);
+
+
+    }
+    .footer-descriptions{
+        padding: 30px;
+        text-align: center;
+    }
 /* responsive for mobile devices */
 @media screen and (max-width:576px) {
       .navbar,
